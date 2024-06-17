@@ -1,4 +1,5 @@
-Jefferson Junior Alvarez rm558497 | Arthur Galvão Alves rm554462 | Felipe Braunstein e Silva rm554483
+Jefferson Junior Alvarez rm558497 | Arthur Galvão Alves rm554462 | Felipe Braunstein e Silva rm554483 | Eduardo da Silva Lima rm554804
+
 
 ## Dependências
 - **Arduino IDE**: Ambiente de desenvolvimento para programação do Arduino.
